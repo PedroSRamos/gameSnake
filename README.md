@@ -1,2 +1,2 @@
-# gameSnake
-jogo da cobrinha
+# ProjetoCobrinha
+ Jogo da Cobrinha
