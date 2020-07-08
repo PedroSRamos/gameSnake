@@ -1,2 +1,2 @@
 
-https://github.com/PedroSRamos/gameSnake.git
+file:///D:/ProjetoSnakeGame/game.html
